@@ -1,14 +1,23 @@
 .App {
-  text-align: center;
+  width: 1920px;
+  height: 948px;
 }
+.test {
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  max-width: 1170px;
+  height: 60px;
+}
+
 .header {
-  display: grid;
-  gap: 20px;
-  height: 100vh;
-  align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items:center;
 
-
-
+  top: 9px;
+  left: 375px;
+  gap: 0;
 }
 
 button{
@@ -19,6 +28,9 @@ button{
   overflow: hidden;
   outline: none;
 
+}
+.telNumber {
+  display: flex;
 }
 
 
