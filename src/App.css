@@ -1,36 +1,9 @@
+
+
 .App {
-  width: 1920px;
-  height: 948px;
-}
-.test {
-  display: flex;
-  justify-content: center;
-  align-items:center;
-  max-width: 1170px;
-  height: 60px;
-}
-
-.header {
-  display: flex;
-  justify-content: center;
-  align-items:center;
-
-  top: 9px;
-  left: 375px;
-  gap: 0;
-}
-
-button{
-  background-color: transparent;
-  background-repeat: no-repeat;
-  border: none;
-  cursor: pointer;
-  overflow: hidden;
-  outline: none;
-
-}
-.telNumber {
-  display: flex;
+    background-image: url("./assets/img/fon.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
