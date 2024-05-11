@@ -1,0 +1,20 @@
+
+.backgraund1 {
+
+    max-width: 1921px;
+    width: 100%;
+    margin: 0 auto;
+    height: 948px;
+
+
+    background: url("/src/assets/img/bushRight.png") top 241px left 1753px / 167px 632px no-repeat,
+    url("/src/assets/img/bushLeft.png") top 449px left 0 / 211px 435px no-repeat,
+    url("/src/assets/img/cloud.png") top 688px left 0 / 1920px 170px no-repeat,
+    url("/src/assets/img/tree.png") top 454px left -1px/ 389px 288px no-repeat,
+    url("/src/assets/img/littlHorse.png") top 557px left 719px/ 213px 209px no-repeat,
+    url("/src/assets/img/home.png") top 596px left 337px/ 428px 192px no-repeat,
+    url("/src/assets/img/horse1.png") top 181px left 920px/ 663px 671px no-repeat,
+    url("/src/assets/img/bird.png") top 157px left 1409px/ 272px 86px no-repeat,
+    url('/src/assets/img/backgraund11.jpeg') center/ 1921px 948px no-repeat;
+}
+
