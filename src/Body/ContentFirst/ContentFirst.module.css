@@ -6,7 +6,6 @@
     margin: 0 auto;
     height: 948px;
 
-
     background: url("/src/assets/img/bushRight.png") top 241px left 1753px / 167px 632px no-repeat,
     url("/src/assets/img/bushLeft.png") top 449px left 0 / 211px 435px no-repeat,
     url("/src/assets/img/cloud.png") top 688px left 0 / 1920px 170px no-repeat,
@@ -18,3 +17,57 @@
     url('/src/assets/img/backgraund11.jpeg') center/ 1921px 948px no-repeat;
 }
 
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 613px;
+    height: 342px;
+    top: 157px;
+    left: 376px;
+    padding: 157px 0px 0px 375px;;
+    gap: 40px;
+}
+
+.main__p{
+    font-family: Philosopher;
+    font-size: 57px;
+    font-weight: 700;
+    line-height: 60.99px;
+    text-align: left;
+}
+.line{
+
+}
+.boxLesson{
+    display: flex;
+}
+.line{
+    display: flex;
+    margin-top: 13px;
+    background-color: #8F8F8F;
+    width: 26px;
+    height: 1px;
+    top: 335px;
+    left: 376px;
+    gap: 0px;
+}
+.main__lesson{
+    font-family: Alegreya Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33.6px;
+    text-align: left;
+    display: flex;
+    padding-left: 20px;
+}
+
+.mainP__sign{
+    width: 270px;
+    height: 70px;
+    top: 429px;
+    left: 376px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    background: linear-gradient(180deg, #7EB2FF 0%, #0057FF 100%);
+
+}
