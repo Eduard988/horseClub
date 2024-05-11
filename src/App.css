@@ -3,6 +3,10 @@
   background-image: url("./assets/img/fon.png");
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 1921px;
+  width: 100%;
+  margin: 0 auto;
+  height: 948px;
 }
 
 .App-logo {
