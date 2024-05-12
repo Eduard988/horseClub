@@ -1,0 +1,50 @@
+.bodyThree {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 1171px;
+    top: 1787px;
+    left: 374px;
+    margin: 0;
+    gap: 119px;
+
+
+}
+
+.whyWe{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    font-family: Philosopher;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+}
+.subtittle{
+    display: flex;
+    justify-content: center;
+}
+.bodyThree__navigator{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 22.27px;
+    gap: 29px;
+
+}
+
+.navigator{
+    height: 237px;
+    top: 1944px;
+    left: 374px;
+
+}
+.navigator__info{
+
+
+}

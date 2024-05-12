@@ -1,4 +1,5 @@
 import './App.css';
+import {BodyThree} from "./Body-three/Body-three";
 import {ContentSecond} from "./ContentSecond/ContentSecond";
 import {Header} from "./Header/Header";
 import {Footer} from "./Footer/Footer";
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <ContentFirst/>
       <ContentSecond />
+      <BodyThree />
       <Footer />
     </div>
   );
