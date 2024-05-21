@@ -1,0 +1,10 @@
+
+
+.bodyFour{
+    margin: 0 auto;
+
+    flex-grow: 1;
+    width: 1920px;
+    height: 1598px;
+    background: url("../assets/img/gazon2.jpg") no-repeat ;
+}
