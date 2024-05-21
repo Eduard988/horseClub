@@ -6,7 +6,7 @@ import car from '../assets/img/car.jpg'
 
 export const BodyThree =()=>{
     return (
-        <div className={s.bodyThree}>
+        <div className={s.bodyThreee}>
             <h2 className={s.whyWe}>Почему нас выбирают</h2>
             <div className={s.bodyThree__navigator}>
                 <div className={s.navigator}>

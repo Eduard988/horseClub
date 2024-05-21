@@ -1,14 +1,12 @@
-.bodyThree {
+.bodyThreee {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin: 185px 375px 100px 375px;
     width: 1171px;
     top: 1787px;
     left: 374px;
-    margin: 0;
     gap: 119px;
-
-
 }
 
 .whyWe{
@@ -21,6 +19,7 @@
     line-height: 36px;
     text-align: center;
 }
+
 .subtittle{
     display: flex;
     justify-content: center;
@@ -35,16 +34,14 @@
     font-weight: 500;
     line-height: 22.27px;
     gap: 29px;
-
 }
 
 .navigator{
     height: 237px;
     top: 1944px;
     left: 374px;
-
 }
-.navigator__info{
 
+.navigator__info{
 
 }

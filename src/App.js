@@ -13,7 +13,7 @@ function App() {
       <ContentFirst/>
       <ContentSecond />
       <BodyThree />
-      <BodyFour />
+      {/*<BodyFour />*/}
       <Footer />
     </div>
   );

@@ -1,5 +1,9 @@
 
 .header {
+    /*background-image: url("../assets/img/fon.png") center/no-repeat;*/
+    /*center/1921px 948px no-repeat*/
+    background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     justify-content: center;
     padding-top: 3px;
