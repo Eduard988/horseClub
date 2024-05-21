@@ -1,0 +1,78 @@
+
+.second__list{
+}
+
+.ourClub{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    margin: 0 0 84px 0px;
+    font-family: Philosopher;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+
+}
+.club{
+    display: flex;
+    justify-content: center;
+}
+.club__box{
+    display: flex;
+}
+
+.horseJump {
+    height: 529px;
+    top: 1073px;
+    left: 145px;
+    gap: 0px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    Width: 541px;
+    height: 529px;
+    justify-content: space-between;
+}
+.info__box1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.info__box {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 117px;
+    text-align: left;
+    justify-content: space-around;
+}
+.info__box_number{
+    font-family: Philosopher;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 67.2px;
+    text-align: left;
+color: #008139;
+
+}
+.info__box__1{
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: left;
+}
+.ourClib__information{
+    top: 1378px;
+    left: 1013px;
+    gap: 0px;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+}
