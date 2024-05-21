@@ -1,6 +1,3 @@
-import react from "react";
-
-
 import './App.css';
 import {ContentSecond} from "./ContentSecond/ContentSecond";
 import {Header} from "./Header/Header";
