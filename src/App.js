@@ -4,6 +4,7 @@ import {ContentSecond} from "./ContentSecond/ContentSecond";
 import {Header} from "./Header/Header";
 import {Footer} from "./Footer/Footer";
 import {ContentFirst} from "./Body/ContentFirst/ContentFirst";
+import {BodyFour} from "./BodyFour/BodyFour";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <ContentFirst/>
       <ContentSecond />
       <BodyThree />
+      <BodyFour />
       <Footer />
     </div>
   );
