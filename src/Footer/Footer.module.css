@@ -1,0 +1,68 @@
+
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+.footerBox {
+    font-family: Roboto;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding-top: 24px;
+    color: #EAEAEA;
+}
+.footer_generalinfo{
+    display: flex;
+}
+
+.footer_generalinfo_img{
+    display: flex;
+    padding-right: 418px;
+}
+.footer_generalinfo_aboutUs {
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 29px;
+}
+
+.footer_generalinfo_call{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #FDE724;
+    border-radius: 5px;
+    width: 201px;
+    height: 46px;
+    top: 8184px;
+    left: 1344px;
+    font-size: 15px;
+
+
+
+
+}
+
+.footer_tnAtom {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15.23px;
+    text-align: left;
+    display: flex;
+    padding-top: 26px;
+    text-decoration: underline;
+    padding-bottom: 25px;
+    gap: 40px;
+    color: #7D808A;
+;
+}
+
+button{}
+
+/*padding: 0;*/
+/*border: none;*/
+/*background: none;*/
